@@ -1,0 +1,2 @@
+to be completed, scheduling SRTF without using information from process.burst_time
+average waiting time 0.00 
